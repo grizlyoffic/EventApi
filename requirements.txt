@@ -1,0 +1,5 @@
+# requirements.txt - Fixed version
+flask==2.3.3
+protobuf==4.24.4
+pycryptodome==3.19.0
+requests==2.31.0
